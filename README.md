@@ -1,12 +1,12 @@
 <p align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" width = 200/>
+  <img alt="GIF" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width = 200/>
 </p>
 <h3 align="center">Hello there, I'm Niraj Vankadari⚡</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/niraj-vankadari-7537341aa/" title="LinkedIn Profile"><img width="22" src="https://github.com/NirajVankadari/NirajVankadari/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/NirajVankadari/" title="LeetCode Profile"><img width="22" src="https://github.com/NirajVankadari/NirajVankadari/blob/master/images/leetcode.png"> LeetCode</a></code>
-  <code><a href="https://www.instagram.com/nirajvankadari/" title="Instagram Profile"><img width="22" src="https://github.com/NirajVankadari/NirajVankadari/blob/master/images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/niraj-vankadari-7537341aa/" title="LinkedIn Profile"><img width="22" src="https://github.com/NirajVankadari/NirajVankadari/blob/main/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/NirajVankadari/" title="LeetCode Profile"><img width="22" src="https://github.com/NirajVankadari/NirajVankadari/blob/main/images/leetcode.png"> LeetCode</a></code>
+  <code><a href="https://www.instagram.com/nirajvankadari/" title="Instagram Profile"><img width="22" src="https://github.com/NirajVankadari/NirajVankadari/blob/main/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
