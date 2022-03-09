@@ -27,14 +27,14 @@
 <h2 align="center">Languages & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="Java" height="25" src="https://github.com/NirajVankadari/NirajVankadari/blob/master/images/java.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/NirajVankadari/NirajVankadari/blob/main/images/java.svg"></code>
   <code><img title="Spring Boot" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img title="MySQL" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/NirajVankadari/NirajVankadari/blob/master/images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/NirajVankadari/NirajVankadari/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/NirajVankadari/NirajVankadari/blob/master/images/css.svg"></code>
-  <code><img title="Scikit" height="25" src="https://github.com/NirajVankadari/NirajVankadari/blob/master/images/1200px-Scikit_learn_logo_small.svg.png"></code>
-  <code><img title="Pandas" height="25" src="https://github.com/NirajVankadari/NirajVankadari/blob/master/images/download%20(1).png"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/NirajVankadari/NirajVankadari/blob/main/images/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/NirajVankadari/NirajVankadari/blob/main/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/NirajVankadari/NirajVankadari/blob/main/images/css.svg"></code>
+  <code><img title="Scikit" height="25" src="https://github.com/NirajVankadari/NirajVankadari/blob/main/images/1200px-Scikit_learn_logo_small.svg.png"></code>
+  <code><img title="Pandas" height="25" src="https://github.com/NirajVankadari/NirajVankadari/blob/main/images/download%20(1).png"></code>
 </p>
 
 <hr>
